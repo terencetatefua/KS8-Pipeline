@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning From Tamispa. See You Again. </h1>
+   <h1> Happy Learning From TNT. See You Again. </h1>
    
 </form>
